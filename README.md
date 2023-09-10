@@ -19,6 +19,6 @@ afkar2099/afkar is a ✨ special ✨ repository because its README.md (this file
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.mohammedafkar.me/)](http://www.mohammedafkar.me/)![](https://visitor-badge.glitch.me/badge?page_id=https://www.mohammedafkar.me/)
 
 
-[![MOHAMMED AFKAR github status](https://github-readme-stats.vercel.app/api?username=AfkarMohammed&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/AfkarMohammed)
+[![MOHAMMED AFKAR github status](https://github-readme-stats.vercel.app/api?username=AfkarMohammed&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/AfkarMohammed/)
 
 [![Top Langs](https://github-readme-status.vercel.app/api/top-langs/?username=AfkarMohammed&langs_count=8&layout=compact&theme=radical)](https://github.com/AfkarMohammed/)
