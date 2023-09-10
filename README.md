@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MHMD_AFKAR?label=Follow)](https://twitter.com/intent/follow?screen_name=MHMD_AFKAR)
-[![Linkedin: Mohammed Afkar](https://img.shields.io/badge/mohammedafkar?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammedafkar)](https://www.linkedin.com/in/mohammedafkar)
+[![Linkedin:mohammedafkar](https://img.shields.io/badge/mohammedafkar?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammedafkar)](https://www.linkedin.com/in/mohammedafkar)
 ![GitHub followers](https://img.shields.io/github/followers/AfkarMohammed?tab=followers?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://mohammedafkar.me/)](https://mohammedafkar.me/)
 ![](https://visitor-badge.glitch.me/badge?page_id=https://mohammedafkar.me/)
