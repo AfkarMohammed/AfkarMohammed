@@ -4,13 +4,13 @@ afkar2099/afkar is a ✨ special ✨ repository because its README.md (this file
 -->
 Here are some ideas to get you started:
 
-.🔭 I’m currently working on ... Web Development
-.🌱 I’m currently learning ... Javascript
-.👯 I’m looking to collaborate on ... Web Development or software engineering
-.🤔 I’m looking for help with ... Java Script
-.💬 Ask me about ... Programming and Web Development
-.📫 How to reach me: ... [My Portfolio](https://www.mohammedafkar.me/)
-.😄 Pronouns: ... He/Him
+🔭 I’m currently working on ... Web Development
+🌱 I’m currently learning ... Javascript
+👯 I’m looking to collaborate on ... Web Development or software engineering
+🤔 I’m looking for help with ... Java Script
+💬 Ask me about ... Programming and Web Development
+📫 How to reach me: ... [My Portfolio](https://www.mohammedafkar.me/)
+😄 Pronouns: ... He/Him
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MHMD_AFKAR?label=Follow)](https://twitter.com/MHMD_AFKAR?t=uALPuQKFD70cs8wbW4ygJw&s=09)
